@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe.config
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\bin\Debug\TP Integrador POO.pdb
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Properties.Resources.resources
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP Integrador POO.exe
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP Integrador POO.pdb
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Validacion.resources
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Datos.resources
+C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.FormRealizarPedido.resources
