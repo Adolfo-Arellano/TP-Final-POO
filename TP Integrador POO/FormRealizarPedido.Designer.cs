@@ -50,6 +50,7 @@ namespace TP_Integrador_POO
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::TP_Integrador_POO.Properties.Resources.cafes2;
             this.pictureBox1.Location = new System.Drawing.Point(86, 137);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(450, 245);
