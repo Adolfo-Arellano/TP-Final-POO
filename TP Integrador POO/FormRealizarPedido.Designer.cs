@@ -77,11 +77,14 @@ namespace TP_Integrador_POO
             // 
             // pictureBox2
             // 
+            this.pictureBox2.Image = global::TP_Integrador_POO.Properties.Resources.postres;
             this.pictureBox2.Location = new System.Drawing.Point(132, 462);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(348, 354);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 5;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // comboBox2
             // 

@@ -10,3 +10,15 @@ C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP Inte
 C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Validacion.resources
 C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Datos.resources
 C:\Users\User\source\repos\TP Integrador POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.FormRealizarPedido.resources
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe.config
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.pdb
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Datos.resources
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.FormRealizarPedido.resources
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Properties.Resources.resources
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Validacion.resources
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.exe
+C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.pdb

@@ -18,17 +18,17 @@ namespace TP_Integrador_POO
 
             this.BackColor = Color.White;
 
-            try
-            {
-                // Asegúrate de proporcionar la ruta completa de la imagen con su extensión
-                pictureBox1.Image = Image.FromFile(@"C:\Users\User\source\repos\TP Integrador POO\Image\cafes2.png");
-                pictureBox2.Image = Image.FromFile(@"C:\Users\User\source\repos\TP Integrador POO\Image\postres.png");
-            }
-            catch (Exception ex)
-            {
-                // Maneja cualquier excepción que pueda ocurrir al cargar la imagen
-                MessageBox.Show($"Error al cargar la imagen: {ex.Message}");
-            }
+            //try
+            //{
+            //    // Asegúrate de proporcionar la ruta completa de la imagen con su extensión
+            //    pictureBox1.Image = Image.FromFile(@"C:\Users\User\source\repos\TP Integrador POO\Image\cafes2.png");
+            //    pictureBox2.Image = Image.FromFile(@"C:\Users\User\source\repos\TP Integrador POO\Image\postres.png");
+            //}
+            //catch (Exception ex)
+            //{
+            //    // Maneja cualquier excepción que pueda ocurrir al cargar la imagen
+            //    MessageBox.Show($"Error al cargar la imagen: {ex.Message}");
+            //}
 
             comboBox1.Items.Add("Seleccione su cafe");
             comboBox1.Items.Add("Expresso");
@@ -55,6 +55,11 @@ namespace TP_Integrador_POO
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
         {
 
         }
