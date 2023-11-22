@@ -15,6 +15,8 @@ namespace TP_Integrador_POO
         public Validacion()
         {
             InitializeComponent();
+            pictureBox1.SendToBack();
+
         }
 
         private void label1_Click(object sender, EventArgs e)

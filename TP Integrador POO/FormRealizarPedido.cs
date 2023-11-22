@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,17 +19,19 @@ namespace TP_Integrador_POO
 
             this.BackColor = Color.White;
 
-            //try
-            //{
-            //    // Asegúrate de proporcionar la ruta completa de la imagen con su extensión
-            //    pictureBox1.Image = Image.FromFile(@"C:\Users\User\source\repos\TP Integrador POO\Image\cafes2.png");
-            //    pictureBox2.Image = Image.FromFile(@"C:\Users\User\source\repos\TP Integrador POO\Image\postres.png");
-            //}
-            //catch (Exception ex)
-            //{
-            //    // Maneja cualquier excepción que pueda ocurrir al cargar la imagen
-            //    MessageBox.Show($"Error al cargar la imagen: {ex.Message}");
-            //}
+            try
+            {
+                // Asegúrate de proporcionar la ruta completa de la imagen con su extensión
+                // pictureBox1.Image = Image.FromFile(@"C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\TP-Final-POO-main\Image\cafes2.png");
+                string rutaImagen = Path.GetFullPath("cafes2.png");
+                pictureBox1.Image = Image.FromFile(rutaImagen);
+                pictureBox2.Image = Image.FromFile(@"C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\TP-Final-POO-main\Image\postres.png");
+            }
+            catch (Exception ex)
+            {
+                // Maneja cualquier excepción que pueda ocurrir al cargar la imagen
+                MessageBox.Show($"Error al cargar la imagen: {ex.Message}");
+            }
 
             comboBox1.Items.Add("Seleccione su cafe");
             comboBox1.Items.Add("Expresso");
@@ -59,7 +62,7 @@ namespace TP_Integrador_POO
 
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+        private void FormRealizarPedido_Load(object sender, EventArgs e)
         {
 
         }
