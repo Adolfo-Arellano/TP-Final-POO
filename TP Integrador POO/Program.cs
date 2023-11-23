@@ -6,6 +6,29 @@ using System.Windows.Forms;
 
 namespace TP_Integrador_POO
 {
+    public class Cafe
+    {
+        public string nombre;
+        public int precio;
+
+        public Cafe(string nombre, int precio)
+        {
+            this.nombre = nombre;
+            this.precio = precio;
+        }
+    }
+
+    public class Comida
+    {
+        public string nombre;
+        public int precio;
+
+        public Comida(string nombre, int precio)
+        {
+            this.nombre = nombre;
+            this.precio = precio;
+        }
+    }
     static class Program
     {
         /// <summary>
@@ -17,6 +40,13 @@ namespace TP_Integrador_POO
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Validacion());
+
+
+            
         }
+
+
     }
+
+
 }

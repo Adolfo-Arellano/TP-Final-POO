@@ -64,6 +64,7 @@
     <Compile Include="MedioDePago.Designer.cs">
       <DependentUpon>MedioDePago.cs</DependentUpon>
     </Compile>
+    <Compile Include="Seleccion.cs" />
     <Compile Include="Validacion.cs">
       <SubType>Form</SubType>
     </Compile>
