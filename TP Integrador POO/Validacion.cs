@@ -59,5 +59,10 @@ namespace TP_Integrador_POO
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

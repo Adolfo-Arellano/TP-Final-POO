@@ -46,3 +46,4 @@ C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-P
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\clonado\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.CoreCompileInputs.cache
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\clonado\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.exe
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\clonado\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.pdb
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\clonado\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.MedioDePago.resources

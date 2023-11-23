@@ -37,13 +37,14 @@ namespace TP_Integrador_POO
             this.btnValidate = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // user
             // 
             this.user.AutoSize = true;
-            this.user.Location = new System.Drawing.Point(74, 123);
+            this.user.Location = new System.Drawing.Point(90, 133);
             this.user.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.user.Name = "user";
             this.user.Size = new System.Drawing.Size(57, 16);
@@ -54,7 +55,7 @@ namespace TP_Integrador_POO
             // pass
             // 
             this.pass.AutoSize = true;
-            this.pass.Location = new System.Drawing.Point(52, 153);
+            this.pass.Location = new System.Drawing.Point(68, 163);
             this.pass.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.pass.Name = "pass";
             this.pass.Size = new System.Drawing.Size(79, 16);
@@ -63,7 +64,7 @@ namespace TP_Integrador_POO
             // 
             // txtUser
             // 
-            this.txtUser.Location = new System.Drawing.Point(139, 117);
+            this.txtUser.Location = new System.Drawing.Point(155, 127);
             this.txtUser.Margin = new System.Windows.Forms.Padding(4);
             this.txtUser.Name = "txtUser";
             this.txtUser.Size = new System.Drawing.Size(132, 22);
@@ -72,7 +73,7 @@ namespace TP_Integrador_POO
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(139, 147);
+            this.txtPass.Location = new System.Drawing.Point(155, 157);
             this.txtPass.Margin = new System.Windows.Forms.Padding(4);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
@@ -82,8 +83,9 @@ namespace TP_Integrador_POO
             // btnValidate
             // 
             this.btnValidate.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnValidate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnValidate.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnValidate.Location = new System.Drawing.Point(139, 177);
+            this.btnValidate.Location = new System.Drawing.Point(155, 187);
             this.btnValidate.Margin = new System.Windows.Forms.Padding(4);
             this.btnValidate.Name = "btnValidate";
             this.btnValidate.Size = new System.Drawing.Size(100, 28);
@@ -96,7 +98,7 @@ namespace TP_Integrador_POO
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(73, 9);
+            this.label1.Location = new System.Drawing.Point(87, 11);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(225, 24);
@@ -109,16 +111,28 @@ namespace TP_Integrador_POO
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(0, -1);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(378, 394);
+            this.pictureBox1.Size = new System.Drawing.Size(399, 431);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(12, 398);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(94, 18);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Anteiku S.A";
             // 
             // Validacion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(380, 394);
+            this.ClientSize = new System.Drawing.Size(397, 425);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnValidate);
             this.Controls.Add(this.txtPass);
@@ -144,6 +158,7 @@ namespace TP_Integrador_POO
         private System.Windows.Forms.Button btnValidate;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label4;
     }
 }
 

@@ -53,5 +53,11 @@ namespace TP_Integrador_POO
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var formMedioDePago = new MedioDePago();
+            formMedioDePago.ShowDialog();
+        }
     }
 }

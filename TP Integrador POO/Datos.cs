@@ -29,5 +29,10 @@ namespace TP_Integrador_POO
             var formRealizarPedido = new FormRealizarPedido();
             formRealizarPedido.ShowDialog();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
