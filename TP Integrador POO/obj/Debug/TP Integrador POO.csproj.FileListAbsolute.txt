@@ -48,3 +48,17 @@ C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-P
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\clonado\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.pdb
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\TP-Final-POO-main\clonado\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.MedioDePago.resources
 C:\Users\Martin\Desktop\Escritorio\Facultad\IFTS\Segundo Cuatrimestre 2023\DOO\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.MedioDePago.resources
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\bin\Debug\TP Integrador POO.exe.config
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\bin\Debug\TP Integrador POO.exe
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\bin\Debug\TP Integrador POO.pdb
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.AssemblyReference.cache
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP_Integrador_POO.Datos.resources
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP_Integrador_POO.FormRealizarPedido.resources
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP_Integrador_POO.MedioDePago.resources
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP_Integrador_POO.Properties.Resources.resources
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP_Integrador_POO.Validacion.resources
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.GenerateResource.cache
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.CoreCompileInputs.cache
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP Integrador POO.exe
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP Integrador POO.pdb
+C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP_Integrador_POO.Comprobante.resources

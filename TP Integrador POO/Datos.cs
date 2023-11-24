@@ -34,5 +34,10 @@ namespace TP_Integrador_POO
         {
 
         }
+
+        private void Datos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

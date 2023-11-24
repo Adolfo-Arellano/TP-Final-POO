@@ -64,5 +64,10 @@ namespace TP_Integrador_POO
         {
 
         }
+
+        private void Validacion_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
