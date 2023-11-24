@@ -19,8 +19,6 @@ namespace TP_Integrador_POO
             InitializeComponent();
 
             this.BackColor = Color.White;
-
-
             
             comboBox1.Items.Add("Expresso");
             comboBox1.Items.Add("Doble Expresso");
@@ -65,8 +63,6 @@ namespace TP_Integrador_POO
             seleccion.cantComida = (int)cantDos.Value;
 
             var formMedioDePago = new MedioDePago(seleccion);
-            //formMedioDePago.productoUno.Text = comboBox1.Text;
-            //formMedioDePago.Opcion1.opcion1 = comboBox1.SelectedIndex;
             formMedioDePago.ShowDialog();
         }
 

@@ -62,3 +62,29 @@ C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Ver
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP Integrador POO.exe
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP Integrador POO.pdb
 C:\Users\seazn\Desktop\Carpetas utiles\TDS\2do cuatrimestre\prueba tp\Ultima Version\clonado\TP Integrador POO\obj\Debug\TP_Integrador_POO.Comprobante.resources
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe.config
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.pdb
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Datos.resources
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.FormRealizarPedido.resources
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.MedioDePago.resources
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Properties.Resources.resources
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Validacion.resources
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.exe
+C:\Users\User\Desktop\TP-Final-POO2\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.pdb
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe.config
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.exe
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\bin\Debug\TP Integrador POO.pdb
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Datos.resources
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.FormRealizarPedido.resources
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.MedioDePago.resources
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Properties.Resources.resources
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP_Integrador_POO.Validacion.resources
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.exe
+C:\Users\User\Desktop\TP-Final-POO\TP Integrador POO\obj\Debug\TP Integrador POO.pdb

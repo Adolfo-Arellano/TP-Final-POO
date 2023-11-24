@@ -31,11 +31,15 @@ namespace TP_Integrador_POO
                 MessageBox.Show("Digite la contraseña");
                 txtPass.Focus();
             }
+            else if (txtUser.Text == "")
+            {
+                MessageBox.Show("Digite su nombre de usuario");
+                txtUser.Focus();
+            }
             else
             {
                 if (txtPass.Text == "123")
                 {
-                    // activamos el siguiente formulario
                     MessageBox.Show("Contraseña correcta");
                     Datos misDatos = new Datos();
                     misDatos.Show();
@@ -43,7 +47,7 @@ namespace TP_Integrador_POO
                 }
                 else
                 {
-                    MessageBox.Show("Contraseña invalida");
+                    MessageBox.Show("Datos incorrectos");
                     txtPass.Clear();
                     txtPass.Focus();
                 }

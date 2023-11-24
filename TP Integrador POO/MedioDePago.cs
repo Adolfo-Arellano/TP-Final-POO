@@ -107,14 +107,12 @@ namespace TP_Integrador_POO
         {
             try
             {
-                string nombreArchivo = "comprobante.txt"; // Nombre del archivo que se generará 
-                string rutaArchivo = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, nombreArchivo); // Ruta del archivo en la carpeta del proyecto 
+                string nombreArchivo = "comprobante.txt";
+                string rutaArchivo = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, nombreArchivo);
 
-                // Contenido que se escribirá en el archivo 
                 string contenido = $"Comprobante de pago a nombre de: {textBox3.Text}\n{productoUno.Text} " +
                     $"{precioCafe.Text}\n{productoDos.Text} {precioComida.Text}\nTotal: {total.Text}";
 
-                // Se escribe el contenido en el archivo especificado 
                 File.WriteAllText(rutaArchivo, contenido);
 
                 MessageBox.Show("Archivo creado correctamente en la carpeta del proyecto.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -124,8 +122,7 @@ namespace TP_Integrador_POO
             {
                 MessageBox.Show("Error al crear el archivo: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            //var formComprobante = new Comprobante();
-            //formComprobante.ShowDialog();
+
         
         }
 
