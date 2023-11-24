@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -57,6 +59,8 @@ namespace TP_Integrador_POO
             //precio Total
             var precioTotal = totalCafe + totalComida;
             total.Text = $"${precioTotal.ToString()}";
+
+
         }
 
         private void label12_Click(object sender, EventArgs e)
@@ -101,9 +105,43 @@ namespace TP_Integrador_POO
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var formComprobante = new Comprobante();
-            formComprobante.ShowDialog();
+            try
+            {
+                string nombreArchivo = "comprobante.txt"; // Nombre del archivo que se generará 
+                string rutaArchivo = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, nombreArchivo); // Ruta del archivo en la carpeta del proyecto 
+
+                // Contenido que se escribirá en el archivo 
+                string contenido = $"Comprobante de pago a nombre de: {textBox3.Text}\n{productoUno.Text} " +
+                    $"{precioCafe.Text}\n{productoDos.Text} {precioComida.Text}\nTotal: {total.Text}";
+
+                // Se escribe el contenido en el archivo especificado 
+                File.WriteAllText(rutaArchivo, contenido);
+
+                MessageBox.Show("Archivo creado correctamente en la carpeta del proyecto.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Process.Start("comprobante.txt", rutaArchivo);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al crear el archivo: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            //var formComprobante = new Comprobante();
+            //formComprobante.ShowDialog();
         
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
